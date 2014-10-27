@@ -14,7 +14,7 @@ LoadJS is a small Javascript Library based on jQuery Deferred for loading Javasc
 First step just load jQuery.js (1.7>) and load-js.js:
   ```html
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="/js/load-js.js</script>
+  <script src="/js/load-js.js"></script>
   ```
 
 Then just use it:
